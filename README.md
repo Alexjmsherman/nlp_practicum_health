@@ -45,7 +45,6 @@ Textbook:
 * Technology: scikit-learn, gensim
 * Prework: Read section 6.8-6.13 SLP, Efficient Estimation of Word Representations in Vector Space (https://arxiv.org/pdf/1301.3781.pdf), & Distributed Representations of Words and Phrases
 and their Compositionality (https://arxiv.org/pdf/1310.4546.pdf)
-*  Supplementary Material: watch lesson 4a_object_oriented_python
 
 ### 7. Text Similarity
 *  Topics: cosine similarity, distance metrics, l1 and l2 norm, recommendation engines
